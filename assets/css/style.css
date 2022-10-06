@@ -1,6 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Overpass:wght@400;700&display=swap');
 
-body {
-    background-color: orange;
-    font-family: 'Overpass', sans-serif;
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/profilePic.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .6s ease-in-out;
+    -moz-transition: all .6s ease-in-out;
+    -webkit-transition: all .6s ease-in-out;
 }
