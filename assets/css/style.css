@@ -76,6 +76,7 @@ h5 {
     padding: 0 30px 30px;
     float: none;
 }
+
 .history-heading,
 .section-heading {
     font-family: 'Marcellus', sans-serif;
@@ -210,7 +211,6 @@ footer p {
 
 .social-links {
     padding-bottom: 15px;
-
 }
 
 .social-links li a i {
